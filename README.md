@@ -11,7 +11,7 @@
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
-  <summary>There are many things that I learn while working, but there are still somethings which I haven't gotten a chance yet to get my hands on yet, so I want to take time on feeding more knowledge to myself.</summary>
+  <summary>I learn stuff while I work, but there are still some things I want a chance to get my hands on.</summary>
   <ul>
     <br>
     <li>Dependecy Injection via Hilt.</li>
