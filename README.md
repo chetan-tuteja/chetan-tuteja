@@ -6,6 +6,7 @@
 
 - 🏢 I'm currently working at **AppKnit**
 - 💬 Ping me about **Android**, **Kotlin**, **better coding practices**, and **development in general**.
+- 🤓 Developed some basic projects when I was still learning: [Reddit RSS Feed](https://github.com/chetan-tuteja/Reddit-RSS-Feed-App), [Weather App](https://github.com/chetan-tuteja/Fetch-Weather-Android_App), [etc…](https://github.com/chetan-tuteja/repositories)
 - 🎮 Hobbies: I like reading books, I'm a big fan of Fantasy and SciFi Genre and I consume entertainment in most forms. 
 
 <h3>💼 Things that I'm currently working on:</h3>
