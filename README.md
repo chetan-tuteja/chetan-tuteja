@@ -1,12 +1,12 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45" width="45" />
 
 ### My name is Chetan Tuteja and I'm an Android Developer. I have been a long time Android Enthusiast, who's still learning and growing as a dev. I strive to write better code which is more flexible and activtely working towards the same. 
 
 ![](https://komarev.com/ghpvc/?username=chetan-tuteja&color=24292E&style=flat-square&label=Profile+visitors)
 
-- 🏢 I'm currently working at **AppKnit**
+- 🏢 I'm currently working at **Mode Mobile**
 - 💬 Ping me about **Android**, **Kotlin**, **better coding practices**, and **development in general**.
-- 🤓 Developed some basic projects when I was still learning: [Reddit RSS Feed](https://github.com/chetan-tuteja/Reddit-RSS-Feed-App), [Weather App](https://github.com/chetan-tuteja/Fetch-Weather-Android_App), [etc…](https://github.com/chetan-tuteja/repositories)
+- 🤓 Developed some basic projects when I was still learning: [Easy Binding Library](https://github.com/chetan-tuteja/easy-binding), [Reddit RSS Feed](https://github.com/chetan-tuteja/Reddit-RSS-Feed-App), [etc…](https://github.com/chetan-tuteja/repositories)
 - 🎮 Hobbies: I like reading books, I'm a big fan of Fantasy and SciFi Genre and I consume entertainment in most forms. 
 
 <h3>💼 Things that I'm currently working on:</h3>
